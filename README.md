@@ -21,6 +21,9 @@ https://github.com/user-attachments/assets/91df1b82-0e61-4d73-adb3-922ec4a7e429
 
 
 ## Links
+App on Netlify:
+https://cheery-torte-5c9167.netlify.app/ 
+
 Scrimba course:
 https://scrimba.com/learn-javascript-c0v
 
@@ -34,6 +37,7 @@ JS
 Netlify
 
 ### What I learnt
+- You can grab a colour eyedropper from any colour picker in dev tools to use in the browser window.
 - Alternatives (though not recommended) to addEventListener, applying 'onclick' directly onto the HTML element.
 - Working with a busy background image. Although adding a transparent background to text helped readability it made the app look pretty scruffy. I went back to relying on text shadow.
 - Embedding google fonts
